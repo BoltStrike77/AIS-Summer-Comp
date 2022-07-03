@@ -5,4 +5,5 @@ max_delta_step = 0, learning_rate = 0.105, gamma = 4, colsample_bytree = 1.0,
 colsample_bynode = 0.775, colsample_bylevel = 0.325
 
 RandomForestRegressor!!
-random_state = 42, criterion = 'squared_error'
+random_state = 42, criterion = 'squared_error', max_features = 'auto'
+
