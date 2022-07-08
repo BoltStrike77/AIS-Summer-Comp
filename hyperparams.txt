@@ -1,13 +1,13 @@
-XGBoost!!
+XGBoost (defunct)
 random_state = 0, booster='gbtree', 
 subsample = 0.7, n_estimators = 100, min_child_weight = 0, max_depth = 2,
 max_delta_step = 0, learning_rate = 0.105, gamma = 4, colsample_bytree = 1.0, 
 colsample_bynode = 0.775, colsample_bylevel = 0.325
 
-RandomForestRegressor!!
+RandomForestRegressor
 random_state = 42, criterion = 'squared_error', max_features = 'None'
 
-Best Parameters
+Best Parameters (defunct)
 {'randomforestregressor__n_estimators': 107, 'randomforestregressor__min_samples_split': 8, 
 'randomforestregressor__min_samples_leaf': 4, 'randomforestregressor__max_leaf_nodes': 17, 
 'randomforestregressor__max_features': None, 
