@@ -1,5 +1,5 @@
 # AIS-Summer-Comp
-A repo to hold my TAMS AIS summer competition notebooks and entries
+A repository to track my TAMS AIS summer competition notebooks and entries
 
 (Scores are RMSE, lower is better)
 
