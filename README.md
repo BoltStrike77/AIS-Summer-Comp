@@ -19,3 +19,4 @@ A repository to track my TAMS AIS summer competition notebooks and entries
 14. RandomForestRegressor with ID column used - improvement over #11: 74k
 15. RandomForestRegressor with ID column used and tuned hyperparameters - improvement over #13: 74k
 
+## Got Honorable Mention!
